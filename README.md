@@ -12,7 +12,7 @@ I'm excited to meet others who share my passion for data and are ready to dive i
 
 ## **My Projects on Data Analysis**
 
-- Practicing Data Inspection, Cleaning, Visualization and recommenations using Python
+- **Practicing Data Inspection, Cleaning, Visualization and recommenations using Python**
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
