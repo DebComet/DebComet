@@ -13,9 +13,9 @@ I'm excited to meet others who share my passion for data and are ready to dive i
 ## **My Projects on Data Analysis**
 
 - **Practicing Data Inspection, Cleaning, Visualization and recommenations using Python**
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Cleaning using Python](https://github.com/DebComet/HerTech-Trail-Bootcamp)
   
-- Power BI Project
+- **Power BI Project**
   - [Visualizations](https://github.com/DebComet/SkilHarvest_Crash_Course/blob/main/README.md) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
