@@ -17,8 +17,8 @@ I'm excited to meet others who share my passion for data and are ready to dive i
   
 - **Power BI Project**
   - [Visualizations](https://github.com/DebComet/SkilHarvest_Crash_Course/blob/main/README.md) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+  - [Bank Customer Churn Dataset](https://github.com/DebComet/Churn-Modeling-Project/edit/main/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
