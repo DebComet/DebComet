@@ -16,7 +16,7 @@ I'm excited to meet others who share my passion for data and are ready to dive i
   - [Data Cleaning using Python](https://github.com/DebComet/HerTech-Trail-Bootcamp)
   
 - **Practicing Visualization using Power BI**
-  - [Visualizations](https://github.com/DebComet/SkilHarvest_Crash_Course/blob/main/README.md) 
+  - [Power BI Visualizations](https://github.com/DebComet/SkilHarvest_Crash_Course/blob/main/README.md) 
   
   - [Bank Customer Churn Dataset](https://github.com/DebComet/Churn-Modeling-Project/edit/main/README.md)
     
