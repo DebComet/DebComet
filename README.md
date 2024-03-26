@@ -20,7 +20,7 @@ I'm excited to meet others who share my passion for data and are ready to dive i
   
   - [Bank Customer Churn Dataset](https://github.com/DebComet/Churn-Modeling-Project/edit/main/README.md)
     
-  - [HR Data](https://github.com/DebComet/Company-Attrition-Dataset)
+  - [HR Dataset](https://github.com/DebComet/Company-Attrition-Dataset)
  
 <h2> 🤳 Connect with me:</h2>
 
