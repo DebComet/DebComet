@@ -25,5 +25,7 @@ I'm excited to meet others who share my passion for data and are ready to dive i
 <h2> 🤳 Connect with me:</h2>
 
 `[twitter]: https://twitter.com/Derbierock`
+
 `[instagram]: https://www.instag/derbie_onyechigoziri`
+
 `[linkedin]: https://linkedin.com/in/derbie-onyeche`
