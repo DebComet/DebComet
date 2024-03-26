@@ -12,7 +12,7 @@ I'm excited to meet others who share my passion for data and are ready to dive i
 
 ## **My Projects on Data Analysis**
 
-- **Practicing Data Inspection, Cleaning, Visualization and recommenations using Python**
+- **Practicing Data Inspection, Cleaning using Python**
   - [Data Cleaning using Python](https://github.com/DebComet/HerTech-Trail-Bootcamp)
   
 - **Practicing Visualization using Power BI**
@@ -24,6 +24,6 @@ I'm excited to meet others who share my passion for data and are ready to dive i
  
 <h2> 🤳 Connect with me:</h2>
 
-[twitter]: https://twitter.com/Derbierock
-[instagram]: https://www.instag/derbie_onyechigoziri
-[linkedin]: https://linkedin.com/in/derbie-onyeche
+`[twitter]: https://twitter.com/Derbierock`
+`[instagram]: https://www.instag/derbie_onyechigoziri`
+`[linkedin]: https://linkedin.com/in/derbie-onyeche`
